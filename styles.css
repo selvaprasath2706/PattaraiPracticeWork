@@ -1,0 +1,17 @@
+body{
+  background-color: pink;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 32px;
+}
+.HomeLayout{
+
+}
+.dropdown {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   background-color: DodgerBlue;
+  display: block;
+    font-size: 22px;
+  border-radius:5px;
+  width: 30%;
+
+}
